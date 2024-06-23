@@ -1,1 +1,1 @@
-# 🎨 色彩水印 Palette
+# Palette🎨色彩水印

@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "色彩水印 1.0！"
 date:   2024-06-23 15:51:40 +0800
 categories: jekyll update
 ---
+
+[screenshot1](/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-22%20at%2018.05.40.png)
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

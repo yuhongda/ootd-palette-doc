@@ -4,14 +4,14 @@ title:  "色彩水印 1.0！"
 date:   2024-06-23 15:51:40 +0800
 categories: jekyll update
 ---
-<img src="{{ site.baseurl }}/assets/screenshot1.png" alt="screenshot1" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot2.png" alt="screenshot2" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot3.png" alt="screenshot3" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot4.png" alt="screenshot4" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot5.png" alt="screenshot5" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot6.png" alt="screenshot6" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot7.png" alt="screenshot7" width="185"/>
-<img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot8" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot1.png" alt="screenshot1" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot2.png" alt="screenshot2" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot3.png" alt="screenshot3" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot4.png" alt="screenshot4" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot5.png" alt="screenshot5" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot6.png" alt="screenshot6" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot7.png" alt="screenshot7" width="185" style="display: block;" />
+<img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot8" width="185" style="display: block;" />
 
 ## 色彩水印 - 创意与色彩的完美融合
 

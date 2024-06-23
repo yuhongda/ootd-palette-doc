@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 色彩水印 - 创意与色彩的完美融合
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+你是否想准确记录图片中的美妙色调？“色彩水印”帮你轻松实现！
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+智能色卡生成：选择图片，自动识别并生成色卡。
+多种样式：圆形、方形、笔刷，多种样式任你选择。
+EXIF信息：支持生成EXIF信息，记录每个瞬间。
+立即下载“色彩水印”，让每张照片都拥有独特色彩标签，激发无限创意！

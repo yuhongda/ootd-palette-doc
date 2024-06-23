@@ -4,28 +4,30 @@ title:  "色彩水印 1.0！"
 date:   2024-06-23 15:51:40 +0800
 categories: jekyll update
 ---
-<img src="{{ site.baseurl }}/assets/screenshot1.png" alt="screenshot1" width="200"/>
+<img src="{{ site.baseurl }}/assets/screenshot1.png" alt="screenshot1" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot2.png" alt="screenshot2" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot3.png" alt="screenshot3" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot4.png" alt="screenshot4" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot5.png" alt="screenshot5" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot6.png" alt="screenshot6" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot7.png" alt="screenshot7" width="185"/>
+<img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot8" width="185"/>
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 色彩水印 - 创意与色彩的完美融合
 
-Jekyll requires blog post files to be named according to the following format:
+你是否曾经被一张图片中的色彩深深吸引，却苦于无法准确记录这些美妙的色调？现在，一款创新的应用“色彩水印”应运而生，让你的每一张图片都能拥有属于自己的独特色彩标签。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 主要功能：
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+🎨 智能色卡生成：只需选择一张图片，色彩水印将自动识别图片中的主要颜色，并在图片右下角生成一组色卡。每个色卡都精准呈现图片中的颜色，让你轻松获取灵感。
 
-Jekyll also offers powerful support for code snippets:
+🌟 多种色卡样式：无论你喜欢圆形、方形还是笔刷样式，色彩水印都能满足你的需求。丰富的样式选择，随心打造专属于你的色彩标签。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+📸 EXIF信息集成：支持EXIF信息生成，让你的图片不仅仅是视觉的享受，更是一段记录瞬间的旅程。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 为什么选择色彩水印？
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+创意无限：丰富的色卡样式，激发你的创意灵感。
+操作简单：用户友好的界面设计，让你轻松上手，随时随地生成色彩水印。
+记录美好：通过EXIF信息集成，全面记录每一个美好瞬间的详细信息。
+立即下载色彩水印，探索图片色彩的新世界，让每一张照片都成为创意的源泉！

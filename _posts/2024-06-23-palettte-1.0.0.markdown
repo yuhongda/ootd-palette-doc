@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "色彩水印 1.0！"
+title:  "色彩水印 1.0.0！"
 date:   2024-06-23 15:51:40 +0800
 categories: jekyll update
 ---
@@ -13,6 +13,8 @@ categories: jekyll update
   <img src="{{ site.baseurl }}/assets/screenshot6.png" alt="screenshot6" width="180" style="margin: 3px 0;" />
   <img src="{{ site.baseurl }}/assets/screenshot7.png" alt="screenshot7" width="180" style="margin: 3px 0;" />
   <img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot8" width="180" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot9" width="180" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/screenshot8.png" alt="screenshot10" width="180" style="margin: 3px 0;" />
 </div>
 
 ## 色彩水印 - 创意与色彩的完美融合

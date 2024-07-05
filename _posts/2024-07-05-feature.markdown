@@ -48,8 +48,8 @@ categories: jekyll update
 ### 效果图 💫
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="{{ site.baseurl }}/assets/features/result1.JPG" alt="result1" style="margin: 3px;" />
-  <img src="{{ site.baseurl }}/assets/features/result2.JPG" alt="result2" style="margin: 3px;" />
+  <img src="{{ site.baseurl }}/assets/features/result1.JPG" alt="result1" style="display: block; max-width: 30%;margin: 3px;" />
+  <img src="{{ site.baseurl }}/assets/features/result2.JPG" alt="result2" style="display: block; max-width: 30%;margin: 3px;" />
 </div>
 
 

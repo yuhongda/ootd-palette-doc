@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## 色彩水印 v1.0.0 功能介绍
 
-### 🎨 色卡生成
+### 色卡生成 🎨
 
 <img src="{{ site.baseurl }}/assets/features/1.png" alt="open photo" style="display: block; max-width: 80%; margin: 0 auto;" />
 
@@ -28,7 +28,7 @@ categories: jekyll update
 > - 在编辑中您可以随时重置回最初的色卡
 
 
-### 🖼️ 模版
+### 模版 🖼️
 
 <img src="{{ site.baseurl }}/assets/features/goNext.png" alt="goNext" style="display: block; max-width: 80%; margin: 0 auto;" />
 
@@ -41,13 +41,13 @@ categories: jekyll update
 
 <img src="{{ site.baseurl }}/assets/features/save.png" alt="save" style="display: block; max-width: 80%; margin: 0 auto;" />
 
-### 💾 保存
+### 保存 💾
 
 > - 色彩水印支持两种保存形式：保存预览区的图片和保存色卡
 > - 保存图片：保存的图片与预览区域展示的图片一致
-> - 保存色卡：如上图右侧图片所示，带有色值和原图的拼接图片(💡：色卡保存时可通过点击“复制”按钮，保存色值文本。)
+> - 保存色卡：如上图右侧图片所示，带有色值和原图的拼接图片(💡：色卡保存时可通过点击“复制”按钮，保存色值文本)
 
-### 💫 效果图
+### 效果图 💫
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="{{ site.baseurl }}/assets/features/result1.png" alt="result1" style="margin: 3px 0;" />

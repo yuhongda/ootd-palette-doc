@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "v1.0.0 功能介绍"
+date:   2024-07-05 10:30:40 +0800
+categories: jekyll update
+---
+
+## 色彩水印 v1.0.0 功能介绍
+
+### 🎨 色卡生成
+
+<img src="{{ site.baseurl }}/assets/features/1.png" alt="open photo" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+> #### 选择图片，生成色卡
+> - 在App主屏 点击 `⊕`选择图片，色彩水印会呈现选中图片，并将图片中10个主要颜色呈现在图片下方。
+> - 选择图片后，可以点击左上角`⊕`重新选择。
+
+<img src="{{ site.baseurl }}/assets/features/dragAndDrop.png" alt="dragAndDrop" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+> #### 色卡排序
+> - 你可以通过拖拽重新排列色卡顺序。（⚠️：这将影响到后面绘制图片时的色卡顺序）
+> #### 编辑色卡
+> - 你可以点击`ⓧ`删除色卡
+
+<img src="{{ site.baseurl }}/assets/features/addColor.png" alt="addColor" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+> - 你也可以像上图一样来添加色卡
+> - 在编辑中您可以随时重置回最初的色卡
+
+
+### 🖼️ 模版
+
+<img src="{{ site.baseurl }}/assets/features/goNext.png" alt="goNext" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+> 设置好色卡后，就可以点击下一步按钮进入模版选择界面。（💡：你可以随时回到色卡界面进行编辑）
+
+<img src="{{ site.baseurl }}/assets/features/edit.png" alt="edit" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+> - 模版选择界面呈现了6种模版选择，分别是：圆形、方形、笔刷、边缘、边框、Exif。你可以尝试随意切换在上方效果图中查看样式。
+> - 每种模版都支持设置微调功能，当选中的模版图标上方出现`...`时，再次点击进入微调。
+
+<img src="{{ site.baseurl }}/assets/features/save.png" alt="save" style="display: block; max-width: 80%; margin: 0 auto;" />
+
+### 💾 保存
+
+> - 色彩水印支持两种保存形式：保存预览区的图片和保存色卡
+> - 保存图片：保存的图片与预览区域展示的图片一致
+> - 保存色卡：如上图右侧图片所示，带有色值和原图的拼接图片(💡：色卡保存时可通过点击“复制”按钮，保存色值文本。)
+
+### 💫 效果图
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.baseurl }}/assets/features/result1.png" alt="result1" style="style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/features/result2.png" alt="result2" style="style="margin: 3px 0;" />
+</div>
+
+

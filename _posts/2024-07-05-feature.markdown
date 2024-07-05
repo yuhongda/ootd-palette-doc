@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "v1.0.0 功能介绍"
+title:  "色彩水印 1.0.0 功能介绍"
 date:   2024-07-05 10:30:40 +0800
 categories: jekyll update
 ---
@@ -22,7 +22,7 @@ categories: jekyll update
 > #### 编辑色卡
 > - 你可以点击`ⓧ`删除色卡
 
-<img src="{{ site.baseurl }}/assets/features/addColor.png" alt="addColor" style="display: block; max-width: 80%; margin: 0 auto;" />
+<img src="{{ site.baseurl }}/assets/features/addColor.png" alt="addColor" style="display: block; max-width: 30%; margin: 0 auto;" />
 
 > - 你也可以像上图一样来添加色卡
 > - 在编辑中您可以随时重置回最初的色卡
@@ -50,8 +50,8 @@ categories: jekyll update
 ### 💫 效果图
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/assets/features/result1.png" alt="result1" style="style="margin: 3px 0;" />
-  <img src="{{ site.baseurl }}/assets/features/result2.png" alt="result2" style="style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/features/result1.png" alt="result1" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/features/result2.png" alt="result2" style="margin: 3px 0;" />
 </div>
 
 

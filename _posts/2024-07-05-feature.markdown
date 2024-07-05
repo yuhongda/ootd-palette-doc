@@ -5,8 +5,6 @@ date:   2024-07-05 10:30:40 +0800
 categories: jekyll update
 ---
 
-## 色彩水印 v1.0.0 功能介绍
-
 ### 色卡生成 🎨
 
 <img src="{{ site.baseurl }}/assets/features/1.png" alt="open photo" style="display: block; max-width: 80%; margin: 0 auto;" />

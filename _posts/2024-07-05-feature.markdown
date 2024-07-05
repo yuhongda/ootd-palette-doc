@@ -6,9 +6,7 @@ categories: jekyll update
 ---
 
 <div style="text-align: center">
-<video width="80%" controls>
-<source src="https://drive.google.com/file/d/1MG9MbQSPj--hF2Wj7hyL5FyqHcb-eYTh/view?usp=sharing" type="video/mp4">
-</video>
+<iframe height="480" src="https://www.youtube.com/embed/AFZ35UQ_UsQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%"></iframe>
 </div>
 
 ### 色卡生成 🎨

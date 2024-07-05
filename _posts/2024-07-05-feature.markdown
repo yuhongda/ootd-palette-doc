@@ -5,6 +5,12 @@ date:   2024-07-05 10:30:40 +0800
 categories: jekyll update
 ---
 
+<div style="text-align: center">
+<video width="80%" controls>
+<source src="https://drive.google.com/file/d/1MG9MbQSPj--hF2Wj7hyL5FyqHcb-eYTh/view?usp=sharing" type="video/mp4">
+</video>
+</div>
+
 ### 色卡生成 🎨
 
 <img src="{{ site.baseurl }}/assets/features/1.png" alt="open photo" style="display: block; max-width: 80%; margin: 0 auto;" />

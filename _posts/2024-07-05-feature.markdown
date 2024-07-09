@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <div style="text-align: center">
-<iframe height="480" src="https://www.youtube.com/embed/yLm1FkVWhIk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%"></iframe>
+<iframe height="480" src="https://www.youtube.com/embed/bgixySjxItw" title="色彩水印 🎨 Palette App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%"></iframe>
 </div>
 
 ### 色卡生成 🎨

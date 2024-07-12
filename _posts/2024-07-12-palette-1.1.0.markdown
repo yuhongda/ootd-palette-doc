@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "v1.1.0 穿搭博主福音！主体色卡生成！"
+date:   2024-07-12 11:54:40 +0800
+categories: jekyll update
+---
+
+### 支持主体拖动（Subject Lifting）
+
+<div style="text-align: center">
+<iframe height="480" src="https://www.youtube.com/embed/34KrXNg10ck" title="色彩水印 🎨 Palette App v1.1.0 Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%"></iframe>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.baseurl }}/assets/v1.1.0/1.PNG" alt="screenshot1" width="180" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/v1.1.0/2.PNG" alt="screenshot1" width="180" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/v1.1.0/3.PNG" alt="screenshot1" width="180" style="margin: 3px 0;" />
+  <img src="{{ site.baseurl }}/assets/v1.1.0/4.PNG" alt="screenshot1" width="180" style="margin: 3px 0;" />
+</div>
+
+> #### 适合场景
+> - 特别适合展示OotD穿搭配色卡生成。（排除照片背景干扰，只针对人物主体区域取色）
+> - 针对照片主体生成色卡
+
+> #### 更新细节
+> - 基于iOS17 VisionKit强大的Subject Lifting功能实现主体拖动取色
+> - 保持与原有取色和自定义色卡功能的无缝适配
+> - 对App内存占用进行了优化
+
+> #### 后续更新
+> - 用户自定义Exif信息功能（feat）
+> - 进一步优化App内存占用

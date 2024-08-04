@@ -1,0 +1,203 @@
+---
+layout: post
+title: "色彩水印v2 is OUT！"
+date: 2024-08-04 10:35:40 +0800
+categories: jekyll update
+---
+
+<style>
+    .photo-wrap {
+        display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;
+    }
+
+    .photo-wrap > div {
+        width: 49%; text-align: center; color: #999;
+    }
+    
+    .photo-wrap img {
+        display: block;
+    }
+
+    .photo-grid-wrap {
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .photo-grid-wrap > img {
+        width: 20%;
+    }
+</style>
+
+<img src="{{ site.baseurl }}/assets/v2.0.0/banner.png" alt="banner" style="display: block;" />
+
+## 滤镜
+
+> 色彩水印 V2 版本新增全新滤镜功能，为处理照片增加更多可能性。
+>
+> 包含 8 中内置滤镜：胶片模拟、玻璃、像素化、抖动、透镜、漫画、色块、颜色混合。
+>
+> 滤镜之间可随意叠加组合，碰撞出奇特效果。
+>
+> 下面逐一介绍 👇
+
+<br />
+<br />
+<br />
+
+
+
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-film.png" alt="filter-film" style="display: block;" />
+
+### 胶片模拟 🎞️
+
+> 提供十多种精心调制的胶片模拟滤镜，让你的照片有种肝儿颤的效果 😜。
+
+#### EK80 - 全能滤镜
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9093.JPG" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9096.JPG" alt="banner" />
+  </div>
+</div>
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9092.JPG" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9102.JPG" alt="banner" />
+  </div>
+</div>
+
+> 原相机 + EK80 = 明星照。
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_0176.jpg" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9086.JPG" alt="banner" />
+  </div>
+</div>
+
+> 让你随手拍的美食，一秒入魂。
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9052.JPG" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9087.JPG" alt="banner" />
+  </div>
+</div>
+
+> 风景同样适用！
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/L1002546.jpg" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9088.JPG" alt="banner" />
+  </div>
+</div>
+
+> 街拍人文也可以！
+
+
+#### Kamakura - 镰仓滤镜
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/L1002908-o.jpg" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9104.JPG" alt="banner" />
+  </div>
+</div>
+
+> 不用去镰仓了:D
+
+#### Ektar 100 - 经典的Kodak Ektar 100
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_7340.JPG" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9106.JPG" alt="banner" />
+  </div>
+</div>
+
+> 应用柯达极细颗粒彩色负片效果于你的照片之上。
+>
+> 💁‍♀️ Kodak Ektar 100 是一种非常受欢迎的彩色负片胶片，以其极高的细节捕捉和鲜艳的色彩著称。
+
+
+#### Polaroid - 宝利来相纸滤镜
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_7346.jpg" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9107.JPG" alt="banner" />
+  </div>
+</div>
+
+> 让照片拥有宝利来相纸独特的韵味。
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-glass.png" alt="filter-glass" style="display: block;" />
+
+### 条纹玻璃 🖼️
+
+> 在V1.5.0版本中我们提供了色卡壁纸功能，可以实现用照片中的色卡生成壁纸。
+>
+> 这次我们可以更进一步。
+
+<br />
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9003.JPG" alt="banner" />
+  <div>➡️</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9011.PNG" alt="banner" />
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9004.JPG" alt="banner" />
+  <div>➡️</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9009.PNG" alt="banner" />
+</div>
+
+<br />
+
+> 上面是色卡壁纸功能，在这个基础上应用条纹玻璃滤镜。
+
+<br />
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9013.JPG" alt="banner" />
+  <div style="font-size: 50px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9082.JPG" alt="banner" />
+  <div style="font-size: 50px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9083.PNG" alt="banner" />
+</div>
+

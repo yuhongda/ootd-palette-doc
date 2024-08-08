@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "色彩水印v2 is OUT！"
+title: "色彩水印v2 is OUT"
 date: 2024-08-04 10:35:40 +0800
 categories: jekyll update
 ---
@@ -24,6 +24,43 @@ categories: jekyll update
     .photo-grid-wrap > img {
         width: 20%;
     }
+
+    .one-more-thing {
+      text-align: center;
+      font-size: 2em;
+      color: #999;
+    }
+
+    .one-more-thing .the-text {
+      display: flex;
+      justify-content: center; align-items: center;
+      height: 300px;
+      color: #fff;
+      font-size: 1.5em;
+      font-weight: bold;
+      background: #292929;
+      text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+    }
+
+    .logo {
+      display: flex;
+      justify-content: center; align-items: center;
+      padding-top: 200px;
+      flex-direction: column;
+      font-size: 14px;
+      
+      img {
+        display: block;
+        width: 80px;
+        border-radius: 16px;
+      }
+
+      .text {
+        padding-top: 8px;
+      }
+    }
 </style>
 
 <img src="{{ site.baseurl }}/assets/v2.0.0/banner.png" alt="banner" style="display: block;" />
@@ -32,9 +69,8 @@ categories: jekyll update
 
 > 色彩水印 V2 版本新增全新滤镜功能，为处理照片增加更多可能性。
 >
-> 包含 8 中内置滤镜：胶片模拟、玻璃、像素化、抖动、透镜、漫画、色块、颜色混合。
+> 包含 8 种内置滤镜：胶片模拟、玻璃、像素化、抖动、透镜、漫画、色块、颜色混合。
 >
-> 滤镜之间可随意叠加组合，碰撞出奇特效果。
 >
 > 下面逐一介绍 👇
 
@@ -49,7 +85,10 @@ categories: jekyll update
 
 ### 胶片模拟 🎞️
 
-> 提供十多种精心调制的胶片模拟滤镜，让你的照片有种肝儿颤的效果 😜。
+> 提供多种精心调制的胶片模拟滤镜，让你的照片有种肝儿颤的效果 😜。
+
+<br />
+<br />
 
 #### EK80 - 全能滤镜
 
@@ -115,6 +154,8 @@ categories: jekyll update
 
 > 街拍人文也可以！
 
+<br />
+<br />
 
 #### Kamakura - 镰仓滤镜
 
@@ -130,6 +171,9 @@ categories: jekyll update
 </div>
 
 > 不用去镰仓了:D
+
+<br />
+<br />
 
 #### Ektar 100 - 经典的Kodak Ektar 100
 
@@ -148,6 +192,8 @@ categories: jekyll update
 >
 > 💁‍♀️ Kodak Ektar 100 是一种非常受欢迎的彩色负片胶片，以其极高的细节捕捉和鲜艳的色彩著称。
 
+<br />
+<br />
 
 #### Polaroid - 宝利来相纸滤镜
 
@@ -163,6 +209,29 @@ categories: jekyll update
 </div>
 
 > 让照片拥有宝利来相纸独特的韵味。
+
+<br />
+<br />
+
+#### Doom City - 末日都市
+
+<div class="photo-wrap">
+  <div>
+    <div>Before</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/L1002716.JPG" alt="banner" />
+  </div>
+  <div>
+    <div>After</div>
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9109.JPG" alt="banner" />
+  </div>
+</div>
+
+> 给照片一种阴郁的末世感。
+
+<br />
+<br />
+
+> 还有很多胶片效果，比如：炮塔（portra） 160、富士的Velvia反转片等等，这里不一一列举了，等你自己去发现吧。
 
 <br />
 <br />
@@ -194,10 +263,167 @@ categories: jekyll update
 <br />
 
 <div class="photo-grid-wrap">
-  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9013.JPG" alt="banner" />
-  <div style="font-size: 50px;">🪄</div>
-  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9082.JPG" alt="banner" />
-  <div style="font-size: 50px;">🪄</div>
-  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9083.PNG" alt="banner" />
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9013.JPG" alt="banner" style="width: 30%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9082.JPG" alt="banner" style="width: 30%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9083.PNG" alt="banner" style="width: 30%;" />
 </div>
 
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-pixellate.png" alt="filter-pixellate" style="display: block;" />
+
+### 像素化 👾
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8517.WEBP" alt="banner" style="width: 18%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9111.JPG" alt="banner" style="width: 18%;" />
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9112.JPG" alt="banner" style="width: 18%;" />
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9113.JPG" alt="banner" style="width: 18%;" />
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9114.JPG" alt="banner" style="width: 18%;" />
+</div>
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-dither.png" alt="filter-pixellate" style="display: block;" />
+
+### 抖动 🫨
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8517.WEBP" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9115.JPG" alt="banner" style="width: 45%;" />
+</div>
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-lens.png" alt="filter-lens" style="display: block;" />
+
+### 透镜 🔍
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9093.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9118.JPG" alt="banner" style="width: 45%;" />
+</div>
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-comic.png" alt="filter-comic" style="display: block;" />
+
+### 漫画风 💥
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8991.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9124.JPG" alt="banner" style="width: 45%;" />
+</div>
+<br />
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8992.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9122.JPG" alt="banner" style="width: 45%;" />
+</div>
+<br />
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8992.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9119.JPG" alt="banner" style="width: 45%;" />
+</div>
+<br />
+
+> 还可以更搞怪一些:P。滤镜可以自动识别眼睛，替换卡通样式
+<br />
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8992.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9120.JPG" alt="banner" style="width: 45%;" />
+</div>
+<br />
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8954.JPG" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9125.JPG" alt="banner" style="width: 45%;" />
+</div>
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-palettize.png" alt="filter-palettize" style="display: block;" />
+
+### 色块 🎨
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8517.WEBP" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9126.JPG" alt="banner" style="width: 45%;" />
+</div>
+> 可以把图片色块化，并且可以重新着色。例如上面就是用了皮特·科内利斯·蒙德里安（Piet Cornelies Mondrian）的配色。
+
+<br />
+<br />
+<br />
+
+<img src="{{ site.baseurl }}assets/v2.0.0/filter-colorblend.png" alt="filter-colorblend" style="display: block;" />
+
+### 着色 🎨
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8517.WEBP" alt="banner" style="width: 45%;" />
+  <div style="font-size: 20px;">🪄</div>
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9127.JPG" alt="banner" style="width: 45%;" />
+</div>
+> 可以用渐变色或者纯色为照片重新着色。
+
+<br />
+<br />
+<br />
+
+<div class="one-more-thing">
+  <p>以上就是对这次更新的滤镜功能的介绍和展示。</p>
+  <br />
+  <br />
+  <div class="the-text">
+    <p>对了</p>
+  </div>
+</div>
+
+<br />
+<br />
+
+### 滤镜是可以叠加的 🎨
+
+<br />
+<br />
+
+<div class="photo-grid-wrap">
+  <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9160.PNG" alt="banner" style="width: 45%;" />
+  <div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_8933.jpg" alt="banner" style="width: 55%;margin: 4px 0;" />
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9163.JPG" alt="banner" style="width: 55%;margin: 4px 0;" />
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9162.JPG" alt="banner" style="width: 55%;margin: 4px 0;" />
+    <img src="{{ site.baseurl }}assets/v2.0.0/IMG_9161.JPG" alt="banner" style="width: 55%;margin: 4px 0;" />
+  </div>
+</div>
+
+<div class="logo">
+  <a href="https://apps.apple.com/app/id6504702421" target="_blank">
+      <img src="{{ site.baseurl }}assets/logo.png" alt="logo" />
+  </a>
+  <div class="text">色彩水印</div>
+  <a href="https://apps.apple.com/app/id6504702421" target="_blank" style="margin-top: 30px;">
+    <img src="{{ site.baseurl }}assets/applestore.webp" alt="logo" style="width: 150px;" />
+  </a>
+</div>
